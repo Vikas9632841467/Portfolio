@@ -72,7 +72,7 @@ const AboutMe = () => {
           <h4 style={{color:"rgb(16, 224, 16)"}}>About Me</h4>
           <br />
           <div className='section-content-div'>
-          I am a Research scholar at NITK Surathkal, specializing in "Modeling and Analysis of Grid Connected Power Systems with Renewable Energy Integration". I have a strong academic record, including 3 published SCI journals, 2 book chapters, and 4 conference presentations. I have a diverse skill set in MATLAB, C, PYTHON, and more. As the Ph.D. Placement Head and an active reviewer, I can bridge academia and industry, showcasing qualities of gregariousness, flexibility, and collaborative leadership. Seeking a challenging role, I aim to leverage my technical talents in the dynamic field of Power Systems.
+          I am a Ph.D. scholar at NITK Surathkal, specializing in "Modeling and Analysis of Grid Connected Power Systems with Renewable Energy Integration". I have a strong academic record, including 3 published SCI journals, 2 book chapters, and 4 conference presentations. I have a diverse skill set in MATLAB, C, PYTHON, and more. As the Ph.D. Placement Head and an active reviewer, I can bridge academia and industry, showcasing qualities of gregariousness, flexibility, and collaborative leadership. Seeking a challenging role, I aim to leverage my technical talents in the dynamic field of Power Systems.
                 <hr />
           </div>
         </div>
